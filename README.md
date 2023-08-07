@@ -7,4 +7,8 @@
 * $ make run
 
 ## kadeck
-kafka:9092
+http://localhost/#/server
+user: admin
+user: admin
+
+Bootstrap Servers: kafka:9092
