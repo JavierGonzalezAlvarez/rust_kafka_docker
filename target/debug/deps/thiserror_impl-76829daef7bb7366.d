@@ -1,0 +1,12 @@
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/libthiserror_impl-76829daef7bb7366.so: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs
+
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/thiserror_impl-76829daef7bb7366.d: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs
+
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/lib.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/ast.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/attr.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/expand.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/fmt.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/generics.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/prop.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.44/src/valid.rs:

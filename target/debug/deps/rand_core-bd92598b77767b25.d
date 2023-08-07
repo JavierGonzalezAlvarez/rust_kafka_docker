@@ -1,0 +1,12 @@
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/rand_core-bd92598b77767b25.rmeta: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/librand_core-bd92598b77767b25.rlib: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/rand_core-bd92598b77767b25.d: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs
+
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/lib.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/block.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/error.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/impls.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/le.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.4/src/os.rs:

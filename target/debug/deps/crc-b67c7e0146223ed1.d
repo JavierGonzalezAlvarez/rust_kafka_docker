@@ -1,0 +1,13 @@
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/crc-b67c7e0146223ed1.rmeta: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc16.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc32.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc64.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc8.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/table.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/util.rs
+
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/libcrc-b67c7e0146223ed1.rlib: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc16.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc32.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc64.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc8.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/table.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/util.rs
+
+/home/javier/Escritorio/Proyectos/rust/rust_producer/target/debug/deps/crc-b67c7e0146223ed1.d: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc16.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc32.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc64.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc8.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/table.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/util.rs
+
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/lib.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc16.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc32.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc64.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/crc8.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/table.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/crc-2.1.0/src/util.rs:
